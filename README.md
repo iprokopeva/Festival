@@ -12,3 +12,4 @@
 <hr>
 
 ## Ссылка на демонстацию
+https://github.com/iprokopeva/Festival/blob/main/Демонстрация.mp4
